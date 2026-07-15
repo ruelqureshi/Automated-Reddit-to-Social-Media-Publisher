@@ -1,4 +1,4 @@
-# Reddit to Social Media Automation
+# Automated Reddit-to-Social Media Publisher
 
 ## Overview
 
